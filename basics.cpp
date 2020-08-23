@@ -10,5 +10,7 @@ int main()
     int n;
     cin>>n;
 
+    cout<<"New print in the file";
+
 }
 
